@@ -1,0 +1,11 @@
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\obj\Debug\netcoreapp3.1\examples.csprojAssemblyReference.cache
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\obj\Debug\netcoreapp3.1\examples.AssemblyInfoInputs.cache
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\obj\Debug\netcoreapp3.1\examples.AssemblyInfo.cs
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.exe
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.deps.json
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.runtimeconfig.json
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.runtimeconfig.dev.json
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.dll
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\bin\Debug\netcoreapp3.1\examples.pdb
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\obj\Debug\netcoreapp3.1\examples.dll
+C:\Users\newforce\workspace\242\Book1\chapter4\examples\examples\obj\Debug\netcoreapp3.1\examples.pdb
